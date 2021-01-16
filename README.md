@@ -1,5 +1,6 @@
 # tab-bar
-手机端下标签栏组件
+手机端
+标签栏组件的联系
 ## Project setup
 ```
 npm install
