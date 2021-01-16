@@ -1,6 +1,8 @@
 # tab-bar
+```
 手机端
 标签栏组件的练习
+```
 ## Project setup
 ```
 npm install
