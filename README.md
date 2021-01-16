@@ -1,5 +1,5 @@
 # tab-bar
-
+手机端标签栏组件
 ## Project setup
 ```
 npm install
